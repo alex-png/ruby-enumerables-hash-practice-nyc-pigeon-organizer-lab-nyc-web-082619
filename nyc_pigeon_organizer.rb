@@ -36,4 +36,3 @@ def nyc_pigeon_organizer(data)
 puts new
 new
 end
-nyc_pigeon_organizer(pigeon_data)
